@@ -1,5 +1,5 @@
 # Leaflet Heatmap template
-This map uses a [Leaflet.Heat](https://github.com/Leaflet/Leaflet.heat) plugin
+This map uses a [Leaflet.Heat](https://github.com/kamalamarepalli-art/Leaflet-Maps4/edit/main/README.md) plugin
 to transform points into a heat layer.
 
 ![Screenshot](screenshot.png)
